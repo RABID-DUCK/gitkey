@@ -1,0 +1,272 @@
+body{
+    font-family: Rubik;
+}
+.verh{
+
+    
+    margin-top: 58.62px;
+    font-size: 16px;
+    line-height: 19px;
+    
+}
+.verh a{
+    
+    color: #4F5665;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: Rubik;
+}
+.svgex{
+
+width: 35px;
+height: 36.23px;
+
+margin-top: 50px;
+}
+.svgex2{
+
+width: 104px;
+height: 24px;
+margin-left: 10px;
+margin-top: 56.12px;
+font-style: normal;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #0B132A;
+}
+.sprava{
+    width: 53px;
+    height: 19px;
+    margin-left: 357px;
+    margin-top: 58.62px;
+    
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #0B132A;
+    font-weight: bold;
+
+}
+.baton{
+
+    width: 150px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 45.62px;
+
+    width: 150px;
+    height: 45px;
+    left: 1140px;
+    top: 45.62px;
+    
+    border: 1px solid #F53855;
+    box-sizing: border-box;
+    border-radius: 50px;    
+    background-color: white;
+    color: #F53855;
+    font-weight: bold;
+}
+.ser{
+width: 555px;
+height: 140px;
+left: 150px;
+margin-top: 206.77px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 70px;
+/* or 140% */
+
+
+color: #0B132A;
+
+}
+.ser2{
+width: 555px;
+height: 60px;
+left: 150px;
+top: 366.77px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+
+color: #4F5665;
+}
+.getik{
+    width: 250px;
+    height: 60px;
+    left: 150px;
+    top: 476.77px;
+    background: #F53838;
+    border-radius: 10px;
+    box-shadow: 0 14px 28px rgba(245, 56, 56, 0.35), 0 10px 10px rgba(0,0,0,0.22);
+    border: none;
+}
+#ten{
+width: 211.83px;
+height: 60px;
+left: 169.09px;
+top: 502.06px;
+
+background: rgba(245, 56, 56, 0.35);
+filter: blur(54px);
+border-radius: 10px;
+}
+.svgexz{
+   
+/* Rectangle 305 */
+
+
+width: 60.75px;
+height: 58.43px;
+left: 781.55px;
+top: 187.15px;
+
+background: #FFFFFF;
+margin-right: 0px;
+
+}
+.wow{
+margin-left: 700px;
+width: 611.24px;
+height: 382.44px;
+margin-top: -379.11px;
+}
+.hr{
+
+width: 1140px;
+height: 200px;
+margin-right: 450px;
+margin-top: 100px;
+background: #FFFFFF;
+border-radius: 10px;
+border: 1px solid #FFFFFF;
+box-shadow: 5px 15px 15px 15px #DDE0E4;
+}
+#her{
+    margin-left: 10%;
+    margin-right: 15%;
+    margin-top: 2%;
+    bottom: 10%;
+}
+.her1{
+    width: 55px;
+    height: 55px;
+    left: 241px;
+    top: 737.05px;
+    background: #FFECEC;
+    border-radius: 70px;
+}
+.ots{
+    margin-top: 200px;
+    margin-left: -195px;
+}
+.her3{
+    font-weight: bold;
+    font-size: 22px;
+    margin-left: 200px;
+    margin-top: -55px;
+}
+#her3{
+    color: #4F5665;
+    font-weight: 500;
+    margin-top: -5px;
+    margin-left: 200px;
+}
+.polosa{
+    width: 0px;
+height: 125.57px;
+margin-left: 420px;
+margin-top: -95px;
+
+border: 1px solid #EEEFF2;
+}
+.her4{
+    margin-left: 520px;
+margin-top: -55px;
+}
+#her4{
+    background: #FFECEC;
+    border-radius: 70px;
+    height: 55px;
+    width: 55px;
+    margin-top: -140px;
+}
+.yzb{
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 600px;
+    margin-top: -125px;
+}
+#yzb{
+    font-weight: 500;
+    color: #4F5665;
+    margin-left: 600px;
+    margin-top: -5px;
+}
+.polosa2{
+    width: 0px;
+height: 125.57px;
+margin-left: 820px;
+margin-top: -95px;
+
+border: 1px solid #EEEFF2;
+}
+.her5{
+    margin-left: 920px;
+margin-top: -170px;
+}
+#her5{
+    background: #FFECEC;
+    border-radius: 70px;
+    height: 55px;
+    width: 55px;
+    margin-top: -124px;
+    margin-left: 905px;
+}
+.der{
+    color: #4F5665 !important;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.gf{
+    font-weight: bold;
+}
+.kartu{
+    list-style-image: url(../img/galka\ \(1\).ico);
+}
+.pet{
+    box-shadow: 5px 24px 38px rgba(255, 255, 255, 0.61), 0 30px 20px rgba(211, 211, 211, 0.22);
+    border: none !important;
+    border-radius: 1% !important;
+}
+.buyer{
+    text-align: center;
+    width: 330px;
+    height: 760px;
+    margin-left: 175px;
+    margin-top: 500px;
+    background: #FFFFFF;
+    border: 2px solid #DDDDDD;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.next{
+    margin-top: 100px;
+    margin-left: 700px;
+}
